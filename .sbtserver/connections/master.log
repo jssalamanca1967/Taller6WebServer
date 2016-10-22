@@ -1,0 +1,13 @@
+New log file opened at Fri Oct 21 22:04:39 COT 2016 by 9388@Johnathan
+Taking next connection to: 59969
+New client attempting to connect on port: 59970-59969
+  Address = /192.168.0.6:59969
+This client on port 59970 has uuid c5b0c57e-e4bb-4d90-a880-8cc9ea9415ce configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-c5b0c57e-e4bb-4d90-a880-8cc9ea9415ce
+Taking next connection to: 59969
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+Server socket thread exiting.
+0 clients open, will close them...
+All client sockets have been closed.
+Closing the 9388@Johnathan logs at Fri Oct 21 22:07:39 COT 2016, goodbye.
